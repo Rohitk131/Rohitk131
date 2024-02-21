@@ -96,7 +96,7 @@ linkedi | Twitter | insta | kaggle | tableau | dev | Telegram -->
 
 <!-- 
 ![build](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg) -->
-![pv](![](https://komarev.com/ghpvc/?username=rohitk131)
+(![](https://komarev.com/ghpvc/?username=rohitk131)
 
 
 
