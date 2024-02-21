@@ -42,8 +42,9 @@
 <p>
     <details>
      <summary><strong>Github Stats</strong></summary>
-     
-[![Ujwal Kandi's github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/UjwalKandi?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=6&theme=blue-green)](https://github.com/UjwalKandi)
+     ![rohitk131's Stats](https://github-readme-stats.vercel.app/api?username=rohitk131&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+     ![rohitk131's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitk131&theme=vue-dark&hide_border=true)
+     ![rohitk131's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitk131&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
     </details>
 </p>
 
