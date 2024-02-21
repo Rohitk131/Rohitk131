@@ -36,6 +36,8 @@
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React"></code>
   <code><img height="25" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-1024x615-fdeis5r1.png" alt="Tailwind"></code>
   <code><img height="25" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.png" alt="Express"></code>
+  <code><img height="25" src="https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/63a57609d46c17284c36a721_mongodb.svg" alt="MongoDB"></code>
+  <code><img height="25" src="https://miro.medium.com/v2/resize:fit:1400/1*QOx_tPV5wJnhTzAGhfIiLA.png" alt="Postman"></code>
 
 </p>
 
