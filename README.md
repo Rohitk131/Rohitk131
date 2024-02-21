@@ -40,7 +40,7 @@
 <br />
 
 <details>
-    <strong>Github Stats</strong>
+    <summary><strong>Github Stats</strong></summary>
     <img src="https://github-readme-stats.vercel.app/api?username=rohitk131&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="rohitk131's Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitk131&theme=vue-dark&hide_border=true" alt="rohitk131's Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitk131&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="rohitk131's Top Languages">
@@ -85,12 +85,9 @@
  <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp; -->
 
  
-<a href="https://www.linkedin.com/in/ujwalkandi"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn@ujwalkandi"></a>
-<a href="https://twitter.com/UjwalKandiii"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@UjwalKandiii"></a>
-<a href="https://instagram.com/ujwal.kandi"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram@ujwal.kandi"></a>
-<a href="https://www.kaggle.com/ujwalkandi"><img src="https://img.shields.io/badge/Kaggle--_.svg?style=social&logo=kaggle" alt="Kaggle@ujwalkandi"></a>
-<a href="https://public.tableau.com/profile/ujwal.kandi"><img src="https://img.shields.io/badge/Tableau--_.svg?style=social&logo=tableau" alt="Tableau@ujwal.kandi"></a>
-<a href="https://dev.to/ujwalkandi"><img src="https://img.shields.io/badge/dev.to--_.svg?style=social&logo=dev.to" alt="Dev@ujwalkandi"></a>
+<a href="https://www.linkedin.com/in/rohitkumar131/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn@rohitkumar131"></a>
+<a href="https://twitter.com/oyee_rohit"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@oyeerohit"></a>
+<a href="https://instagram.com/oyee.rohit"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram@oyeerohit"></a>
 
  <!--<a href="https://t.me/ujwal_kandi"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social&logo=mail.ru" alt="contactme"></a>
 linkedi | Twitter | insta | kaggle | tableau | dev | Telegram -->
