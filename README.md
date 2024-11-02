@@ -15,11 +15,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **3rd-year Computer Science Student** at MSIT, Delhi
-- 🏆 **Hackathon Winner** at Execute 3.0, DTU
+- 🎓 **Computer Science Student** at MSIT, Delhi
 - 🌱 Learning and building with **Next.js, Prisma, TypeScript,** and **Tailwind CSS**
 - 👯 Interested in collaborating on **MERN** projects and contributing to **Open Source**
-- 📸 Lover of **photography, programming,** and all things **DSA**
+
 
 ---
 
