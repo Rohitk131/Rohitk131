@@ -1,33 +1,12 @@
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-
-<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/rohitkumar131/" target="_blank" rel="noopener noreferrer">Rohit Kumar</a> 👋</h1>
 
 <p align="center">
    <a href="https://linkedin.com/in/rohitkumar131"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-   <a href="https://twitter.com/gutsy_coder"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+   <a href="https://twitter.com/rohitkdev"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
    <a href="https://instagram.com/oyee.rohit"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=rohitk131&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-### 👨‍💻 About Me
-- 🎓 **Computer Science Student** at MSIT, Delhi
-- 🌱 Learning and building with **Next.js, Prisma, TypeScript,** and **Tailwind CSS**
-- 👯 Interested in collaborating on **MERN** projects and contributing to **Open Source**
 
 
----
-
-### 🚀 2024 Goals
-- **More Open-Source Contributions** 🛠️
-- **Enhance Full-Stack Skills**
-- **Expand Personal Projects**
-
----
 
 ### ⚙️ Tech Stack
 <p align="left">
@@ -51,19 +30,7 @@
 </p>
 
 
----
 
-### 📈 GitHub Stats
-<details>
-   <summary><strong>Click to see my GitHub Stats!</strong></summary>
-   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rohitk131&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Rohit Kumar's GitHub Stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitk131&theme=vue-dark&hide_border=true" alt="Rohit Kumar's GitHub Streak" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitk131&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Rohit Kumar's Top Languages" />
-   </p>
-</details>
-
----
 
 ### 🌐 Let's Connect
 Feel free to reach out if you're interested in collaborating, sharing ideas, or just want to say hi!
